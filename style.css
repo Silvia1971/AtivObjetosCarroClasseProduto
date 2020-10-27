@@ -1,0 +1,23 @@
+#lista
+{
+    margin-left: 0;
+    font-size: large;
+    color:blue;
+}
+
+table
+{
+    border:solid;
+    border-color: blue;
+    border-width: medium;
+}
+#contorno {
+    padding: 0px 175px 00px 175px;
+    
+}
+body {
+    background-color: rgb(234, 243, 245);
+}
+span {
+    color: white;
+}
